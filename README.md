@@ -12,11 +12,6 @@
 <br>
 <br>
 
-# **Media!**
-[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCCjerRJP2y2G03IygCR_Hxw)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge)](https://open.spotify.com/user/312ocbzp4osnqde5vi3rcn67gi6e)
-<br>
-<br>
 
 # Software I Use
 [![ChromeOS Badge](https://img.shields.io/badge/ChromeOS-4285F4?logo=googlechrome&logoColor=fff&style=for-the-badge)](https://chromeenterprise.google/intl/en_uk/os/)
@@ -26,6 +21,3 @@
 [![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=for-the-badge)](https://www.mozilla.org/en-US/firefox/new/)
 [![Thunderbird Badge](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=fff&style=for-the-badge)](https://www.thunderbird.net)
 [![Visual Studio Code Badge](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
-<br>
-[![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=for-the-badge)](https://ublockorigin.com/)
-[![Shields.io Badge](https://img.shields.io/badge/Shields.io-000?logo=shieldsdotio&logoColor=fff&style=for-the-badge)](https://shields.io)
