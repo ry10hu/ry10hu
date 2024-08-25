@@ -15,9 +15,8 @@
 
 # Software I Use
 [![ChromeOS Badge](https://img.shields.io/badge/ChromeOS-4285F4?logo=googlechrome&logoColor=fff&style=for-the-badge)](https://chromeenterprise.google/intl/en_uk/os/)
-[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)](https://ubuntu.com/)
-[![Windows 10 Badge](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff&style=for-the-badge)](https://www.microsoft.com/en-us/software-download/windows10ISO)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 <br>
 [![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=for-the-badge)](https://www.mozilla.org/en-US/firefox/new/)
 [![Thunderbird Badge](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=fff&style=for-the-badge)](https://www.thunderbird.net)
-[![Visual Studio Code Badge](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
